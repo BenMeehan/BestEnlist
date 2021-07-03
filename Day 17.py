@@ -1,4 +1,4 @@
-# Day 15 - MYSQL
+# Day 17 - MYSQL
 
 # 1.
 import mysql.connector
